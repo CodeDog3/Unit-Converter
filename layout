@@ -1,0 +1,17 @@
+notes: 
+
+conversion overflow catch
+
+
+
+format: 
+class for metric/imperial methods?
+
+
+to do:
+1. figure out git flow (job board included)
+2. format plan
+3. gui
+4. undoredo?
+5. tab completion? gradle/maven
+6. money conversions (connect to api)

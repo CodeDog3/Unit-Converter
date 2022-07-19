@@ -1,0 +1,15 @@
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\bin\Debug\net6.0\Conversions.exe
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\bin\Debug\net6.0\Conversions.deps.json
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\bin\Debug\net6.0\Conversions.runtimeconfig.json
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\bin\Debug\net6.0\Conversions.dll
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\bin\Debug\net6.0\Conversions.pdb
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\Conversions.csproj.AssemblyReference.cache
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\Conversions.AssemblyInfoInputs.cache
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\Conversions.AssemblyInfo.cs
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\Conversions.dll
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\refint\Conversions.dll
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\Conversions.pdb
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\Conversions.genruntimeconfig.cache
+C:\Users\jonbr\OneDrive\Desktop\C#\Conversions\obj\Debug\net6.0\ref\Conversions.dll
